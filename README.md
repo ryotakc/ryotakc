@@ -4,11 +4,9 @@
 **RyotaKC/RyotaKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 👋 Hi, I’m @katichan91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ryota Kato
+- 👀 I’m interested in Cloud engineering
+- 🌱 I’m currently learning at Kwantlen Polytechnic University
 
 
 <!---
