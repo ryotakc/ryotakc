@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+[![Twitter: Ryota Kato](https://img.shields.io/twitter/follow/ryota_canada?style=social)](https://twitter.com/ryota_canada) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=RyotaKC&left_color=gray&right_color=blue)
 
 <!--
 **RyotaKC/RyotaKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
