@@ -1,5 +1,6 @@
-### Hi there 👋 
-[![Twitter: Ryota Kato](https://img.shields.io/twitter/follow/ryota_canada?style=social)](https://twitter.com/ryota_canada) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=RyotaKC&left_color=gray&right_color=blue)
+<h1 align="center">Hi 👋, I'm Ryota Kato</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RyotaKC&label=Profile%20views&color=0e75b6&style=flat" alt="RyotaKC" /> </p>
+
 
 <!--
 **RyotaKC/RyotaKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
