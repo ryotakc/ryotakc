@@ -15,7 +15,7 @@ RyotaKC/RyotaKC is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyotaKC&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyotaKC&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaKC&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
