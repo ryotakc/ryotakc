@@ -6,7 +6,7 @@
 **ryotakc/ryotakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 👋 Hi, I’m Ryota Kato
+- 👋 Hi, I’m Ryota
 - 👀 I’m interested in Cloud engineering
 - 🌱 I’m currently learning at Kwantlen Polytechnic University
 
