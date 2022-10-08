@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryota Kato</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=RyotaKC&label=Profile%20views&color=0e75b6&style=flat" alt="RyotaKC" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ryotakc&label=Profile%20views&color=0e75b6&style=flat" alt="ryotakc" /> </p>
 
 
 <!--
-**RyotaKC/RyotaKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**ryotakc/ryotakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 👋 Hi, I’m Ryota Kato
@@ -24,8 +24,8 @@ RyotaKC/RyotaKC is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyotaKC&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryotakc&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaKC&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryotakc&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyotaKC&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryotakc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
