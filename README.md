@@ -10,7 +10,10 @@
 - 👀 I’m interested in Cloud engineering
 - 🌱 I’m currently learning at Kwantlen Polytechnic University
 
-
+<h3 align="left">Connect with me:</h3>
+<a href="https://instagram.com/ryota_krc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ryota_krc" height="30" width="40" /></a>
+<a href="https://twitter.com/ryota_canada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ryota_canada" height="30" width="40" /></a>
+<h3 align="left"></h3>
 <!---
 RyotaKC/RyotaKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
