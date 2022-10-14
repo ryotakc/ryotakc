@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/ryota_krc" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/instagram.svg" alt="ryota_krc" height="30" width="40" fill="#e1306c"/></a>
 <a href="https://twitter.com/ryota_canada" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/twitter.svg" alt="ryota_canada" height="30" width="40" stroke="#55acee"/></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
 <h3 align="left"></h3>
 
 <h3 align="left">Languages:</h3>
