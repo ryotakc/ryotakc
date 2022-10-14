@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/ryota_canada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryota_canada" height="30" width="40" /></a>
 <a href="https://instagram.com/ryota_krc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryota_krc" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryota kato" height="30" width="40" /></a>
 <h3 align="left"></h3>
 
 <h3 align="left">Languages and Tools:</h3>
