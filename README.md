@@ -16,6 +16,8 @@
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryota kato" height="30" width="40" /></a>
 <h3 align="left"></h3>
 
+[Qiita Profile](https://qiita.com/leo_krc)
+
 <br/>  
 
 
