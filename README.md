@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m Ryota
-- 👀 I’m interested in Cloud ,Backend & Software engineering
+- 👀 I’m interested in Cloud, DevOps, Backend & Software engineering
 - 🌱 I’m currently learning at Kwantlen Polytechnic University
 
 <h3 align="left">Connect with me:</h3>
