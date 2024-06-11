@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Ryota
 - 👀 I’m interested in Cloud, DevOps, Backend & Software engineering
-- 🌱 I’m currently learning at Kwantlen Polytechnic University
+- 🌱 I’m currently learning at Simon Fraser University
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/leo_rkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryota_canada" height="30" width="40" /></a>
@@ -17,6 +17,7 @@
 <h3 align="left"></h3>
 
 [Qiita Profile](https://qiita.com/leo_canada)
+[LinkedIn](www.linkedin.com/in/leo-rkc)
 
 <br/>  
 
