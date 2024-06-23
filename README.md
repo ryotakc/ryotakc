@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m Ryota
-- 👀 I’m interested in Cloud, DevOps, Backend & Software engineering
+- 👀 I’m interested in Cloud, DevOps, Front,Backend & Web engineering
 - 🌱 I’m currently learning at Simon Fraser University
 
 <h3 align="left">Connect with me:</h3>
