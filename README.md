@@ -29,6 +29,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
   
 
 <br/>  
@@ -106,6 +107,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qgnjwjnpxi27yvkwzzgca5ecxi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![Portfolio](https://leok.vercel.app/)](https://leok.vercel.app/)
 <br/>  
 
 
