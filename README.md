@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">I'm Ryota, a full-stack student developer 👨‍💻 studying at Simon Fraser University since 2024 🚀</div>  
+### <div align="center">I'm Ryota, a junior full-stack developer 👨‍💻 studying at Simon Fraser University since 2024 🚀</div>  
   
 
 - 🔭 I’m currently studying at Simon Fraser University in Computer Science major focusing on Software Systems  
