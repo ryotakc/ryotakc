@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying at Simon Fraser University in Computer Science major focusing on Software Systems  
   
 
-- 🌱 I’m currently learning Cloud and Web Development  
+- 🌱 I’m interested in Cloud/Infrastructure and Web Development  
   
 
 <br/>  
