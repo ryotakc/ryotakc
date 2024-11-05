@@ -105,7 +105,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qgnjwjnpxi27yvkwzzgca5ecxi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Portfolio](https://leok.vercel.app/)](https://leok.vercel.app/)
+[Portfolio](https://ryotakc.github.io/portfolio-cs/)
 <br/>  
 
 
