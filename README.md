@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ryota Kato</h1>
-
+<div align="center">
   
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ryotakc&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+  
+</div>
+
 
 ### <div align="center">I'm Ryota, a junior full-stack developer 👨‍💻 studying at Simon Fraser University since 2024 🚀</div>  
   
@@ -28,9 +31,9 @@
 <a href="https://instagram.com/leok_can" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://ryotakc.github.io/portfolio-cs/">Portfolio</a>
 </div>  
 
-[Portfolio](https://ryotakc.github.io/portfolio-cs/)
   
 
 <br/>  
