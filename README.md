@@ -91,9 +91,9 @@
 
 
 ## Github Stats  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryotakc&theme=github_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryotakc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryotakc&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+![](profile-3d-contrib/profile-night-view.svg)
+
 
 <br/>  
 
