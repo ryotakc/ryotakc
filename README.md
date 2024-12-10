@@ -33,7 +33,7 @@
 </a>  
 <a href="https://ryotakc.github.io/portfolio-cs/">
   
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=arc&logoColor=#4E9BCD)
   
 </a>
 </div>  
