@@ -31,7 +31,7 @@
 <a href="https://instagram.com/leok_can" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://leok.vercel.app/">
+<a href="https://ryotakc.com/">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=arc&logoColor=#4E9BCD)
   
